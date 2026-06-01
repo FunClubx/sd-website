@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Software development">
+  <defs>
+    <linearGradient id="a" x1="18" y1="10" x2="78" y2="86" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f9fbff"/>
+      <stop offset="1" stop-color="#e0e9fb"/>
+    </linearGradient>
+    <linearGradient id="b" x1="24" y1="24" x2="72" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5f8ee8"/>
+      <stop offset="1" stop-color="#1f6fd6"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="80" height="80" rx="24" fill="url(#a)"/>
+  <rect x="22" y="24" width="52" height="48" rx="14" fill="#ffffff" stroke="#cbd8e7" stroke-width="2"/>
+  <rect x="22" y="24" width="52" height="13" rx="14" fill="#edf4fb"/>
+  <circle cx="33" cy="31" r="2.2" fill="#ff6b6b"/>
+  <circle cx="41" cy="31" r="2.2" fill="#ffc857"/>
+  <circle cx="49" cy="31" r="2.2" fill="#36c48f"/>
+  <path d="M40 47l-7 7 7 7M56 47l7 7-7 7" fill="none" stroke="url(#b)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51 44l-6 20" stroke="#12a2b5" stroke-width="4" stroke-linecap="round"/>
+</svg>

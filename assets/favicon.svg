@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Suide Trading">
+  <rect x="6" y="6" width="52" height="52" rx="15" fill="#f8fafc"/>
+  <rect x="7.5" y="7.5" width="49" height="49" rx="13.5" fill="none" stroke="#2f6fbd" stroke-width="2.5"/>
+  <path d="M42 20H28c-5 0-9 4-9 9s4 9 9 9h3" fill="none" stroke="#2f6fbd" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 44h14c5 0 9-4 9-9s-4-9-9-9h-3" fill="none" stroke="#0f8a9d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="42" cy="20" r="3" fill="#2f6fbd"/>
+  <circle cx="22" cy="44" r="3" fill="#0f8a9d"/>
+</svg>
